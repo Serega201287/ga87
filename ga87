@@ -1,0 +1,10 @@
+-h [ --help ]	Help screen
+--config arg (=./lolMiner.cfg)	Config file
+--json arg (=./user_config.json)	Config file in Json format
+--profile arg	Profile to load from Json file
+--nocolor [=arg(=on)] (=off)	Disable colors in output
+--basecolor [=arg(=on)] (=off)	Use 16 colors scheme for non-rgb terminals
+--list-coins	List all supported coin profiles
+--list-algos	List all supported algorithms
+--list-devices	List all supported & detected GPUs in your system
+-v [ --version ]	Print lolMiner version number
